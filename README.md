@@ -4,14 +4,14 @@ WhimsiWheels is a versatile and easy-to-use test automation framework designed f
 
 ## Table of Contents
 
-1.  [Getting Started](https://chat.openai.com/chat/ca996a5d-01d4-42af-a1f4-da5ae0afd913#getting-started)
-2.  [Prerequisites](https://chat.openai.com/chat/ca996a5d-01d4-42af-a1f4-da5ae0afd913#prerequisites)
-3.  [Installation](https://chat.openai.com/chat/ca996a5d-01d4-42af-a1f4-da5ae0afd913#installation)
-4.  [Framework Structure](https://chat.openai.com/chat/ca996a5d-01d4-42af-a1f4-da5ae0afd913#framework-structure)
-5.  [Usage](https://chat.openai.com/chat/ca996a5d-01d4-42af-a1f4-da5ae0afd913#usage)
-6.  [Contributing](https://chat.openai.com/chat/ca996a5d-01d4-42af-a1f4-da5ae0afd913#contributing)
-7.  [License](https://chat.openai.com/chat/ca996a5d-01d4-42af-a1f4-da5ae0afd913#license)
-8.  [Contact](https://chat.openai.com/chat/ca996a5d-01d4-42af-a1f4-da5ae0afd913#contact)
+1.  [Getting Started](#getting-started)
+2.  [Prerequisites](#prerequisites)
+3.  [Installation](#installation)
+4.  [Framework Structure](#framework-structure)
+5.  [Usage](#usage)
+6.  [Contributing](#contributing)
+7.  [License](#license)
+8.  [Contact](#contact)
 
 ## Getting Started
 
@@ -52,7 +52,7 @@ WhimsiWheels/
 ├── config/
 │   └── config.json
 ├── data/
-│   └── testdata.csv
+│   └── testdata.json
 ├── pages/
 │   └── home_page.py
 ├── performance/

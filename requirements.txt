@@ -1,0 +1,21 @@
+appium-python-client==1.2.0
+beautifulsoup4==4.9.3
+pandas==1.2.4
+pytest==6.2.4
+pytest-allure-adaptor==1.7.0
+pytest-cov==2.12.1
+pytest-xdist==2.3.0
+requests==2.25.1
+selenium==3.141.0
+
+'''
+appium-python-client: A client library for Appium, used for mobile application testing.
+beautifulsoup4: A Python library for pulling data out of HTML and XML files, often used for web scraping.
+pandas: A library for data manipulation and analysis, used for managing test data.
+pytest: A popular testing framework for Python.
+pytest-allure-adaptor: A plugin for Pytest that generates test reports in the Allure format.
+pytest-cov: A plugin for Pytest that measures code coverage during test runs.
+pytest-xdist: A plugin for Pytest that allows tests to be run in parallel across multiple CPUs or hosts.
+requests: A library for making HTTP requests, often used for API testing.
+selenium: A web testing library for automating browser actions.
+'''

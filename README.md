@@ -132,4 +132,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-For any questions or inquiries, please contact souvik.dey.etce@gmail.com.
+For any questions or inquiries, please contact [Souvik Dey](https://www.linkedin.com/in/souvik-d-ey/).

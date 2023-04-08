@@ -1,5 +1,11 @@
+import os
+
+os.system("python setup.py")
+
+
 from pages.login_page import LoginPage
 from utilities.utils import get_login_credentials
+
 
 class TestLogin:
 

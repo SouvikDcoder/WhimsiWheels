@@ -1,13 +1,12 @@
 appium-python-client==1.2.0
 beautifulsoup4==4.9.3
 pandas==1.2.4
-pytest==6.2.4
+pytest==7.2.2
 pytest-allure-adaptor==1.7.0
 pytest-cov==2.12.1
 pytest-xdist==2.3.0
 requests==2.25.1
-selenium==3.141.0
-
+selenium==4.8.3
 '''
 appium-python-client: A client library for Appium, used for mobile application testing.
 beautifulsoup4: A Python library for pulling data out of HTML and XML files, often used for web scraping.
